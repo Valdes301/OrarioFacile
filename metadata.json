@@ -1,6 +1,6 @@
 {
   "name": "Remix Orario Facile",
-  "description": "",
+  "description": "Applicazione per la gestione, pianificazione ed esportazione in PDF/JPEG dell'orario scolastico e settimanale.",
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]
